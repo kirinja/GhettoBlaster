@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/black.png</file>
+        <file>images/gato.png</file>
+        <file>images/ghettoblaster_new.png</file>
+        <file>images/icon.ico</file>
+        <file>images/loop.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/pretend.png</file>
+        <file>images/robo.png</file>
+        <file>images/shuff.png</file>
+        <file>images/stop.png</file>
+        <file>images/tile.png</file>
+    </qresource>
+</RCC>
